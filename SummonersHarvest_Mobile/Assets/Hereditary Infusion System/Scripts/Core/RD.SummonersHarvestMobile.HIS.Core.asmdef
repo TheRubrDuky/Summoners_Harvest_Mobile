@@ -1,0 +1,17 @@
+{
+    "name": "RD.SummonersHarvestMobile.HIS.Core",
+    "rootNamespace": "RD.SummonersHarvestMobile.HIS.Core",
+    "references": [
+        "GUID:171acff1a529b704e89cad11b67ff572",
+        "GUID:9777cf5065b58394bb32a5bc83c6f17b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
